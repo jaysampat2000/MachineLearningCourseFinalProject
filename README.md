@@ -2,3 +2,6 @@
 
 
 •	Performed data cleaning techniques like imputation, tuned hyperparameters, chose best learning rate, extracted variable importance using SHAP values, generated confusion matrices, and plotted actual v. predicted returns using plotly
+
+
+Please see the final report for more details and the final presentation to learn more.
